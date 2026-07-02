@@ -37,8 +37,15 @@ To run this project locally, ensure you have **Qt Creator** and a **C++ compiler
 
 3.Build and Run the application.
 
-   👤 Author:    Sakiatun Zannat
+   👤 Author:    
+   Sakiatun Zannat
+   Sanzida Rahman 
+   Tajrian Monir Tahi 
+   
     
 
-    GitHub: @sakiya-zannat 
+    GitHub: 
+    @sakiya-zannat 
+    @sanzida803
+    @tajrianmonirtahi
     
